@@ -31,31 +31,9 @@ $('#mobile-close').click(function() {
 
 
 // ## punto 4
-
+(window).width(< 648) {
 $('#menu-container li > a').click(function(){
 	$('#menu-container').show();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 });
